@@ -23,8 +23,6 @@ Sprints and Tasks.
 16.	Add CSS file and use Bootstrap to format the pages.
 17.	Debug and test the project.
 
-## Flowcharts of The Application
-![Blank Diagram](https://user-images.githubusercontent.com/64940728/123503775-b57b6e80-d65d-11eb-91a8-a83227b60509.png)
 
 
 ## Technologies and tools Used
@@ -64,7 +62,7 @@ Sprints and Tasks.
 ## How to run the program
 •	clone project
 
-o	clone git : git clone https://github.com/MujtabaMohsin/Sporty-Shoes-Store
+o	clone git : git clone https://github.com/raiandbala/Sporty-Shoes/tree/master/Sporty-Shoes-Store-main
 
 •	Import the “main\webapp\resources\database\sporty-shoes.sql” file to your database administration tool.
 
